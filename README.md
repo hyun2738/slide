@@ -1,2 +1,2 @@
 # slide
-파워포인트 없이 앱 실행
+slide ppt
